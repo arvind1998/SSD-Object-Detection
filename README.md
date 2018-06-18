@@ -4,4 +4,6 @@ First download the pre-trained PyTorch file from the link : https://drive.google
 
 Make sure it is in the same SSD Object Detection folder. 
 
+Then run the object_detection.py file.
+
 You can refer https://github.com/amdegroot/ssd.pytorch for further information. 
