@@ -7,3 +7,5 @@ Make sure it is in the same SSD Object Detection folder.
 Then run the object_detection.py file.
 
 You can refer https://github.com/amdegroot/ssd.pytorch for further information. 
+
+Reference: https://arxiv.org/pdf/1512.02325.pdf
